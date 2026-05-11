@@ -1,0 +1,16 @@
+.listItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.number {
+  font-style: italic;
+}

@@ -1,0 +1,19 @@
+.form {
+  display: block;
+  width: 300px;
+  margin: 20px auto;
+}
+
+.title {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.button {
+  display: block;
+  width: 100px;
+  padding: 5px;
+  margin: auto;
+}
